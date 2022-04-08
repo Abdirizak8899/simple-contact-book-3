@@ -56,7 +56,7 @@ while con == False:
 			print()
 			nam = input('Enter the Phone  of the contact: ')
 			if nam == Phone:
-				Name = input('Enter new_phone:  ')
+				Phone = input('Enter new_phone:  ')
 			else:
 				print()
 				print('this phone  not founded ! ')
